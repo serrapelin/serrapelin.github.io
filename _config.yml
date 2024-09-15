@@ -12,7 +12,7 @@ title                    : "Serra Pelin"
 title_separator          : "-"
 name                     : &name "Serra Pelin"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://serrapelin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serrapelin/serrapelin.github.io"
 
