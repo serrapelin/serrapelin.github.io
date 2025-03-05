@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at UC Berkeley. My primary research interests are international macro-finance and monetary economics. My CV is available [here](https://drive.google.com/file/d/1ZNA64AJeN0rkZ_l-4ttQRWxRxl_Y1SSo/view)
+I am a PhD student in Economics at UC Berkeley. My primary research interests are international macro-finance and monetary economics. My CV is available [here](https://drive.google.com/file/d/1wBS3Sxt2adBiN42fshwX43TMENEVgFol/view?usp=share_link)
 
 Latest Publication: [The Dollar's Imperial Circle](https://www.newyorkfed.org/research/staff_reports/sr1045)
 

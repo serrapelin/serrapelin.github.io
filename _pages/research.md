@@ -9,9 +9,13 @@ redirect_from:
 
 ## Work in Progress
 
-TBD
+* Currency Choice in Financing and Invoicing, with Costanza Gai
+
 
 ## Working Papers
+
+* [Fed Information Effects? A Special Case of Industrial
+Production Data](https://drive.google.com/file/d/15bKodteAowRxZtJ7_22fyirAf_LOfBx5/view?usp=share_link)
 
 * [Effectiveness of Sterilized Foreign Exchange Intervention under Imperfect Financial Markets](https://drive.google.com/file/d/10fViDG5DM5DOZlzroLXM5jfIX_XSs3kV/view)
 
