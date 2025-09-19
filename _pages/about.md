@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at UC Berkeley. My primary research interests are international macro-finance and monetary economics. My CV is available [here](https://drive.google.com/file/d/1wBS3Sxt2adBiN42fshwX43TMENEVgFol/view?usp=share_link)
+I am a PhD candidate in Economics at UC Berkeley. My primary research interests are international macro-finance and monetary economics. My CV is available [here](https://drive.google.com/file/d/1wBS3Sxt2adBiN42fshwX43TMENEVgFol/view?usp=share_link)
+
+Latest Working Paper: [Fed Information Effects? Evidence from Industrial Production](https://drive.google.com/file/d/15bKodteAowRxZtJ7_22fyirAf_LOfBx5/view?usp=share_link)
 
 Latest Publication: [The Dollar's Imperial Circle](https://www.newyorkfed.org/research/staff_reports/sr1045)
 
