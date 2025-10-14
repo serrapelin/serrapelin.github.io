@@ -14,6 +14,8 @@ redirect_from:
 
 ## Working Papers
 
+* [Do Central Banks Follow the Fed?](https://drive.google.com/file/d/11hAbTC-KCe8YB0j25b3eJ0Ev-lhQNJ4g/view), with [Alfredo Mendoza-Fernández](https://sites.google.com/view/alfredo-mendoza-fernandez/home?authuser=0)
+
 * [Fed Information Effects? Evidence from Industrial Production](https://drive.google.com/file/d/15bKodteAowRxZtJ7_22fyirAf_LOfBx5/view?usp=share_link)
 
 * [Effectiveness of Sterilized Foreign Exchange Intervention under Imperfect Financial Markets](https://drive.google.com/file/d/10fViDG5DM5DOZlzroLXM5jfIX_XSs3kV/view)
