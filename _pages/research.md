@@ -24,20 +24,19 @@ redirect_from:
 
 ## Academic Publications
 
-* The Dollar’s Imperial Circle (2024), with Ozge Akinci, Gianluca Benigno and Jon Turek.
+* [The Dollar’s Imperial Circle](https://link.springer.com/article/10.1057/s41308-023-00235-6#:~:text=The%20new%20Imperial%20Circle%20functions,significantly%20influence%20global%20macroeconomic%20developments.), with Ozge Akinci, Gianluca Benigno and Jon Turek.
 
-  at _IMF_ _Economic_ _Review_
-  * [PDF](https://link.springer.com/article/10.1057/s41308-023-00235-6#:~:text=The%20new%20Imperial%20Circle%20functions,significantly%20influence%20global%20macroeconomic%20developments.)
-  * Other Versions: [NY Fed Staff Report](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1045.pdf?sc_lang=en), [CEPR](https://cepr.org/publications/dp18511)
+  IMF Economic Review, 2024
+  * [NY Fed Staff Report](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1045.pdf?sc_lang=en), [CEPR](https://cepr.org/publications/dp18511)
   * In the News: [New York Times](https://www.nytimes.com/2023/03/06/opinion/buybacks-chips-act-buffett.html), [Bloomberg](https://www.bloomberg.com/opinion/articles/2023-08-24/dollar-s-imperial-circle-seals-its-global-currency-status), [Reuters](https://www.reuters.com/breakingviews/global-markets-breakingviews-2023-02-28/)
 
 ## Policy Publications
 
 * The Dollar’s Imperial Circle, Federal Reserve Bank of New York Liberty Street Economics,  March 2023, with Ozge Akinci, Gianluca Benigno, and Jon Turek.
-  * [PDF](https://libertystreeteconomics.newyorkfed.org/2023/03/the-dollars-imperial-circle/)
+  * [Liberty Street Economics Blog](https://libertystreeteconomics.newyorkfed.org/2023/03/the-dollars-imperial-circle/)
 
 * Pandemic Wage Pressures, Federal Reserve Bank of New York Liberty Street Economics, August 4, 2022, with Gianluca Benigno. 
-  * [PDF](https://libertystreeteconomics.newyorkfed.org/2022/08/pandemic-wage-pressures/)
+  * [Liberty Street Economics Blog](https://libertystreeteconomics.newyorkfed.org/2022/08/pandemic-wage-pressures/)
 
 ## Other Publications and Papers
 * Relationship between binary trees and Young diagrams: a story of bookshelves, with Liang Jinlong
