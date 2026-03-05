@@ -9,6 +9,9 @@ redirect_from:
 
 ## Teaching Assistant (GSI) at UC Berkeley:
 
+* UGBA 103: Intro to Finance
+  * Spring 2026
+
 * ECON 101B: Macroeconomics (Math Intensive)
   * Fall 2025, Spring 2024, Fall 2024
   

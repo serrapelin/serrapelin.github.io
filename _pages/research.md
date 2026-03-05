@@ -20,7 +20,12 @@ redirect_from:
 
 ## Work in Progress
 
-* Currency Choice in Financing and Invoicing, with Costanza Gai
+<!-- * Currency Choice in Financing and Invoicing, with Costanza Gai -->
+
+* Offshore dollar deposits: drivers and impact on the global financial system, with [Stefan Avdjiev](https://www.bis.org/author/stefan_avdjiev.htm), [Hyun-Song Shin](https://www.bis.org/author/hyun_song_shin.htm), [Sonya Zhu](https://www.bis.org/author/sonya_zhu.htm)
+  * forthcoming BIS Working Paper
+
+* Monetary Policy Shocks over the Policy Path, with [Regis Barnichon](https://sites.google.com/site/regisbarnichon/research?authuser=0)
 
 ## Academic Publications
 
