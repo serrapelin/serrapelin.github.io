@@ -9,7 +9,11 @@ redirect_from:
 
 I am an Economics PhD candidate at UC Berkeley. My primary research interests are international macroeconomics and monetary economics. My CV is available [here](https://drive.google.com/file/d/1wBS3Sxt2adBiN42fshwX43TMENEVgFol/view?usp=share_link)
 
-Latest Working Paper: [Fed Information Effects? Evidence from Industrial Production](https://drive.google.com/file/d/15bKodteAowRxZtJ7_22fyirAf_LOfBx5/view?usp=share_link)
+Upcoming Conferences: [Joint BIS, BoE, ECB, IMF, and JIE Spillover Conference: Global Spillovers Amid Shifting Policies](https://www.imf.org/en/news/seminars/conferences/2026/04/28/global-spillovers-amid-shifting-policies)
+
+Latest Working Paper (1): [Do Central Banks Follow the Fed?](https://drive.google.com/file/d/11hAbTC-KCe8YB0j25b3eJ0Ev-lhQNJ4g/view)
+
+Latest Working Paper (2): [Fed Information Effects? Evidence from Industrial Production](https://drive.google.com/file/d/15bKodteAowRxZtJ7_22fyirAf_LOfBx5/view?usp=share_link)
 
 Latest Publication: [The Dollar's Imperial Circle](https://www.newyorkfed.org/research/staff_reports/sr1045)
 
