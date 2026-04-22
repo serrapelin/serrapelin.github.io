@@ -11,6 +11,13 @@ redirect_from:
 
 * Do Central Banks Follow the Fed? with [Alfredo Mendoza-Fernández](https://sites.google.com/view/alfredo-mendoza-fernandez/home?authuser=0)
   * [PDF](https://drive.google.com/file/d/11hAbTC-KCe8YB0j25b3eJ0Ev-lhQNJ4g/view), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5605932)
+  <details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
+    Using a newly constructed dataset covering over 9,500 monetary policy meetings across 59 economies, we show that emerging market economy (EME) central banks systematically move in unison with the Fed, whereas advanced economy central banks do not. We present evidence that this heterogeneity arises because, in EMEs, U.S. monetary shocks are perceived as inflationary, transmitted through exchange rate fluctuations that affect import prices and firms’ costs, owing to the greater prevalence of dollar-invoiced imports and dollar debt. A three-bloc open-economy New Keynesian model with dominant currency pricing and partial debt dollarization rationalizes these empirical patterns. The model highlights that EME responses stem from the immediate impact of Fed shocks on exchange rates and, in turn, on inflation.
+  </p>
+</details>
 
 * Fed Information Effects? Evidence from Industrial Production
   * [PDF](https://drive.google.com/file/d/15bKodteAowRxZtJ7_22fyirAf_LOfBx5/view?usp=share_link), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5168843)
