@@ -11,6 +11,7 @@ redirect_from:
 
 * Do Central Banks Follow the Fed? with [Alfredo Mendoza-Fernández](https://sites.google.com/view/alfredo-mendoza-fernandez/home?authuser=0)
   * [PDF](https://drive.google.com/file/d/11hAbTC-KCe8YB0j25b3eJ0Ev-lhQNJ4g/view), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5605932)
+  * In the News: [PIIE Blog](https://www.piie.com/blogs/realtime-economics/2026/amid-wartime-disruptions-most-emerging-market-central-banks-will)
 
   <details>
   <summary><strong>Abstract</strong></summary>
@@ -43,14 +44,15 @@ redirect_from:
 
 ## Academic Publications
 
-* [The Dollar’s Imperial Circle](https://link.springer.com/article/10.1057/s41308-023-00235-6#:~:text=The%20new%20Imperial%20Circle%20functions,significantly%20influence%20global%20macroeconomic%20developments.), with Ozge Akinci, Gianluca Benigno and Jon Turek.
+* The Dollar’s Imperial Circle, with Ozge Akinci, Gianluca Benigno and Jon Turek, IMF Economic Review, 2024.
 
-  IMF Economic Review, 2024
-
-  *  [NY Fed Staff Report](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1045.pdf?sc_lang=en), [CEPR](https://cepr.org/publications/dp18511)
+  *  [NY Fed Staff Report](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1045.pdf?sc_lang=en), [CEPR](https://cepr.org/publications/dp18511), [IMF Economic Review](https://link.springer.com/article/10.1057/s41308-023-00235-6#:~:text=The%20new%20Imperial%20Circle%20functions,significantly%20influence%20global%20macroeconomic%20developments.)
   * In the News: [New York Times](https://www.nytimes.com/2023/03/06/opinion/buybacks-chips-act-buffett.html), [Bloomberg](https://www.bloomberg.com/opinion/articles/2023-08-24/dollar-s-imperial-circle-seals-its-global-currency-status), [Reuters](https://www.reuters.com/breakingviews/global-markets-breakingviews-2023-02-28/)
 
 ## Policy Publications
+
+* Amid wartime disruptions, most emerging-market central banks will follow the Fed, Peterson Institute for International Economics, April 2026, with [Alfredo Mendoza-Fernández](https://sites.google.com/view/alfredo-mendoza-fernandez/home?authuser=0), and [Maury Obstfeld](https://www.mauriceobstfeld.com). 
+  * [PIIE Blog](https://www.piie.com/blogs/realtime-economics/2026/amid-wartime-disruptions-most-emerging-market-central-banks-will)
 
 * The Dollar’s Imperial Circle, Federal Reserve Bank of New York Liberty Street Economics,  March 2023, with Ozge Akinci, Gianluca Benigno, and Jon Turek.
   * [Liberty Street Economics Blog](https://libertystreeteconomics.newyorkfed.org/2023/03/the-dollars-imperial-circle/)
